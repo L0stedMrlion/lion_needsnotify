@@ -4,7 +4,7 @@ lua54 "true"
 
 name "lion_notifyneeds"
 author "Mrlion"
-version "1.0"
+version "1.1"
 
 shared_scripts {
     'config.lua',
