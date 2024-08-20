@@ -1,6 +1,6 @@
+Config = {}
 Config.TimeBetweenChecking = 60 -- In seconds, ideal is something like in from 60s to 120s
-
-Config.Lang {
+Config.Lang = {
     hungry = "You are hungry! Go eat something.",
     thirsty = "You are thirsty! Go drink some water.",
     veryhungry = "You are very hungry! Go eat something.",
