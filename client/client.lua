@@ -11,7 +11,7 @@ CreateThread(function()
             else
                 HungerWarning = false
             end
-            if status.val < 300000 then
+            if status.val < 100000 then
                 if not VeryHungryWarning then
                     Notify(Config.Lang.veryhungry, "fa-solid fa-burger", "#FF8733", 5000)
                     VeryHungryWarning = true
