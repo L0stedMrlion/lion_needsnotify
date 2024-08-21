@@ -1,4 +1,5 @@
 Config = {}
+Config.Framework = "esx" -- esx/qbcore
 Config.TimeBetweenChecking = 60 -- In seconds, ideal is something like in from 60s to 120s
 Config.Lang = {
     hungry = "You are hungry! Go eat something.",
